@@ -91,7 +91,7 @@ div.introbutton{
 	margin-bottom: 20px;
 		}
 
-.introbutton>button{
+#button{
 margin:0 auto;
 padding:15px 25px;
 font-size: 1.2em;
@@ -102,7 +102,7 @@ border:#F15A29 2px solid;
 border-radius:10px;
 		}
 
-		button:hover{
+		#button:hover{
 			background-color: #ed4d1c;
 			cursor: pointer;
 		}

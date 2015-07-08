@@ -67,7 +67,6 @@ height: 45.938rem;
 width:100%;
 margin: 0;
 padding:0;
-min-width: 100%;
 
 }
 
@@ -76,7 +75,7 @@ div.introbutton{
 	padding-left: 50px;
 	text-align: center;
 	margin: 0 auto;
-	width: 100%;
+	width: 50%;
 	height: 50%;
 	min-width: 450px;
 
@@ -120,7 +119,6 @@ div.threebottom{
 margin:0;
 padding: 0;
 width:100%;
-min-width: 800px;
 
 
 }
@@ -129,8 +127,6 @@ div.threebottomcontent{
 margin:0;
 padding: 0;
 margin: 0 auto;
-width: 100%;
-min-width: 100%;
 text-align: center;
 }
 

@@ -22,6 +22,8 @@ nav.topnav{
 width: 100%;
 background-color: #fff;
 position: fixed;
+z-index: 9999;
+
 }
 
 div.content{

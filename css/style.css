@@ -130,6 +130,8 @@ margin:0;
 padding: 0;
 margin: 0 auto;
 text-align: center;
+min-width: 675px;
+
 }
 
 p.everyoneneeds{
@@ -166,7 +168,69 @@ div.comments{
 #devicepic,#coffeepic,#refillpic{
 height: 127px;
 width: 127px;
+border: 
 }
+
+div.footer{
+	width: 100%;
+	text-align: center;
+	height: 300px;
+	margin: 0;
+	padding:0;
+	min-width: 484px;
+	margin-top: 50px;
+
+}
+
+div.footcontent{
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+}
+#twitter,#facebook,#instagram{
+	height: 35px;
+	width: 35px;
+	}
+
+
+ul.footlinks{
+	list-style: none;
+	margin: 0 auto;
+	padding-top: 100px;
+	width: 50%;
+
+}
+
+.footlinks>li{
+display: inline-block;
+margin-left: 40px;
+text-align: center;
+
+}
+
+#footerbreak{
+	width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
